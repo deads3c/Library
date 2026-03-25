@@ -1,15 +1,21 @@
 # Library
 
-Library with [Gabs](https://github.com/itsgabsgarcia) and my notes about multiple topics and books
+Notes, guides and knowledge about different topics in collab with [Gabs](https://github.com/itsgabsgarcia).
 
-## Networking
+## Guides
+
+### Networking
 
 - [Nmap](nmap/README.md)
 
-## Editing
+### Editing
 
 - [Vim](vim/README.md)
 
-### Writing
+#### Writing
 
 - [Markdown](markdown/README.md)
+
+### Graphene OS
+
+- [Hardening Graphene OS](graphene/README.md)
